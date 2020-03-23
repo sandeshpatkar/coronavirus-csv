@@ -1,5 +1,5 @@
-S. No.,Name of State / UT,Total Confirmed cases (Indian National),Total Confirmed cases ( Foreign National ),"Cured/
-Discharged/Migrated",Death,Latitude,Longitude
+S. No.,Name of State_UT,Total Confirmed cases_Indian_National,Total Confirmed cases_Foreign_National,"Cured_
+Discharged_Migrated",Death,Latitude,Longitude
 1,Andhra Pradesh,7,0,0,0,15.9128998,79.7399875
 2,Bihar,2,0,0,1,25.0960742,85.3131194
 3,Chhattisgarh,1,0,0,0,21.2786567,81.8661442
